@@ -27,21 +27,19 @@ video inputs.
 
 ## Repository Structure
 
-- `scripts/`  
+- `final_proejct/scripts/`  
   Python scripts for data preparation, training, evaluation, and inference
 
-- `asl_dataset/`  
+- `final_proejct/asl_dataset/`  
   Description of the public ASL training dataset (not included in repository)
 
-- `data/`  
+- `final_proejct/data/`  
   Description of the locally collected unseen ASL dataset (not included)
 
 
-- `outputs/`  
+- `final_proejct/outputs/`  
   Plots, confusion matrices, and inference videos
 
-- `report/`  
-  Final project report in IEEE format
 
 ---
 
