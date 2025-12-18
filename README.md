@@ -1,4 +1,3 @@
-# Real-Time-ASL-Alphabet-Recognition
 # Real-Time American Sign Language Alphabet Recognition
 
 This repository contains the code and experiments for the EE526 Final Project on
